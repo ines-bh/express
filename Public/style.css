@@ -1,0 +1,11 @@
+.flexnav {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+
+  h1{
+      border-style: dashed;
+      border-color: blue;
+      color: cadetblue;
+  }
